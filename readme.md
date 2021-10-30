@@ -22,7 +22,7 @@
 
 <img align="center" alt="Juan Antonio's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=JuananTorres98&theme=nightowl&show_icons=true&hide_border=true" />
 
-<br/><br/><br/><br/><br/><br/><br/><br/><br/>
+<br/><br/><br/><br/><br/>
 
 ### Readme Streaks
 
