@@ -24,11 +24,11 @@
 
 ### Readme Streaks
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=JuananTorres98&" alt="JuananTorres98" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=JuananTorres98&theme=nightowl" alt="JuananTorres98" />
 
 ### Readme Stats
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=JuananTorres98&show_icons=true&locale=en&layout=compact" alt="JuananTorres98" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=JuananTorres98&theme=nightowl&show_icons=true&locale=en&layout=compact" alt="JuananTorres98" />
 
 
 [twitter]: https://twitter.com/17juanantorres
