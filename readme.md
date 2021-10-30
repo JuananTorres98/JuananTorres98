@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning everything 
 - ⚡ Fun fact: I love everything related to PCs and Cars
 - 💬 Currently being familiar with **Java, Js, PLSQL,PHP, MySQL, Python**
-- 📫 How to reach me **sct0001@alu.medac.es*
+- 📫 How to reach me **juanantorresc@gmail.com*
 
 ### Connect with me:
 
