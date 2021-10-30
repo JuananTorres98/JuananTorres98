@@ -4,7 +4,6 @@
 ## I'm a Fullstack developer in progress!
 
 - 🌱 I’m currently learning everything 
-- 👯 I’m looking to collaborate with other content creators
 - ⚡ Fun fact: I love everything related to PCs and Cars
 
 ### Connect with me:
