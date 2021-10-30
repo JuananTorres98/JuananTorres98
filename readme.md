@@ -20,7 +20,7 @@
 
 ### Github Stats
 
-<img align="left" alt="Juan Antonio's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=JuananTorres98&theme=nightowl&show_icons=true&hide_border=true" />
+<img align="center" alt="Juan Antonio's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=JuananTorres98&theme=nightowl&show_icons=true&hide_border=true" />
 
 <br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
@@ -30,7 +30,7 @@
 
 ### Readme Stats
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=JuananTorres98&show_icons=true&locale=en&layout=compact" alt="JuananTorres98" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=JuananTorres98&show_icons=true&locale=en&layout=compact" alt="JuananTorres98" />
 
 
 [twitter]: https://twitter.com/17juanantorres
