@@ -30,6 +30,9 @@
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=JuananTorres98&theme=nightowl&show_icons=true&locale=en&layout=compact" alt="JuananTorres98" />
 
+<br/>
+
+<center>![](https://komarev.com/ghpvc/?username=JuananTorres98&color=blueviolet&style=plastic&label=VIEWS)<center/>
 
 [twitter]: https://twitter.com/17juanantorres
 [instagram]: https://instagram.com/17juanantorres
