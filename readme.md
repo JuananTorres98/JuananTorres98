@@ -29,7 +29,6 @@
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=JuananTorres98&" alt="JuananTorres98" />
 
 <br />
-
 ### Readme Stats
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=JuananTorres98&show_icons=true&locale=en&layout=compact" alt="JuananTorres98" />
