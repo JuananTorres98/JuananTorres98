@@ -18,14 +18,17 @@
 
 ---
 
+### Github Stats
 
-<p align="center"><img align="center" alt="Juan Antonio's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=JuananTorres98&theme=nightowl&show_icons=true&" /></p>
+<img align="center" alt="Juan Antonio's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=JuananTorres98&theme=nightowl&show_icons=true&" />
 
+### Readme Streaks
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=JuananTorres98&theme=nightowl" alt="JuananTorres98" /></p>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=JuananTorres98&theme=nightowl" alt="JuananTorres98" />
 
+### Readme Stats
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=JuananTorres98&theme=nightowl&show_icons=true&locale=en&layout=compact" alt="JuananTorres98" /></p>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=JuananTorres98&theme=nightowl&show_icons=true&locale=en&layout=compact" alt="JuananTorres98" />
 
 <br/>
 
