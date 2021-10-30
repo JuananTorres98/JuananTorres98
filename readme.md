@@ -20,7 +20,7 @@
 
 ### Github Stats
 
-<img align="center" alt="Juan Antonio's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=JuananTorres98&theme=nightowl&show_icons=true&hide_border=true" />
+<img align="center" alt="Juan Antonio's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=JuananTorres98&theme=nightowl&show_icons=true&" />
 
 ### Readme Streaks
 
@@ -32,7 +32,7 @@
 
 <br/>
 
-<p align="center"><img src="https://komarev.com/ghpvc/?username=JuananTorres98&color=blueviolet&style=plastic&label=VIEWS"</p>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=JuananTorres98&color=#301934&style=flat&label=VIEWS"</p>
 
 [twitter]: https://twitter.com/17juanantorres
 [instagram]: https://instagram.com/17juanantorres
