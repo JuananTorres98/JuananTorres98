@@ -18,13 +18,13 @@
 
 ---
 
-###Github Stats
+### Github Stats
 
 <img align="left" alt="Juan Antonio's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=JuananTorres98&theme=nightowl&show_icons=true&hide_border=true" />
 
 <br/>
 
-###Readme Streaks
+### Readme Streaks
 
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=JuananTorres98&" alt="JuananTorres98" />
 
