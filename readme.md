@@ -15,22 +15,14 @@
 
 <br />
 
-### Languages and Tools:
-
-
-<br />
-<br />
-
 ---
 
-</details>
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
+###  GitHub Stats
 
   <img align="left" alt="Juan Antonio's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=JuananTorres98&show_icons=true&hide_border=true" />
 
-</details>
+
 
 
 [twitter]: https://twitter.com/17juanantorres
