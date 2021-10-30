@@ -18,7 +18,12 @@
 ---
 
 
+<<<<<<< HEAD
 ###  GitHub Stats
+=======
+<details>
+  ### GitHub Stats
+>>>>>>> ac25a5237418fd85cd56b2b9b86c72edeff112bc
 
   <img align="left" alt="Juan Antonio's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=JuananTorres98&show_icons=true&hide_border=true" />
 
