@@ -32,7 +32,7 @@
 
 <br/>
 
-<center>![](https://komarev.com/ghpvc/?username=JuananTorres98&color=blueviolet&style=plastic&label=VIEWS)<center/>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=JuananTorres98&color=blueviolet&style=plastic&label=VIEWS"</p>
 
 [twitter]: https://twitter.com/17juanantorres
 [instagram]: https://instagram.com/17juanantorres
