@@ -1,7 +1,7 @@
 ### Hi there, I'm Juan Antonio 👋
 
 
-## I'm a Fullstack developer in progress!
+## I'm a Fullstack developer!
 
 - 🌱 I’m currently learning everything 
 - ⚡ Fun fact: I love everything related to PCs and Cars
